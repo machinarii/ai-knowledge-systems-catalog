@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A reference catalog mapping how AI systems store, retrieve, and reason over knowledge — organized by the same cognitive functions humans use. The thesis: every AI knowledge system is solving a problem that biological memory already solved, just with different tradeoffs.
+A reference catalog mapping of AI knowledge systems that store, retrieve, and reason. The thesis: every AI knowledge system is solving a problem that biological memory already solved, just with different tradeoffs.
 
 Humans remember through association (vector similarity), narrative (episodic memory), relationships (knowledge graphs), consolidation (sleep/dreaming), and forgetting (interference, decay). AI systems have converged on strikingly parallel architectures: vector databases for associative recall, conversation logs for episodes, graph RAG for relational reasoning, offline consolidation for memory pruning, and TTL/auto-expiry for managed forgetting.
 
