@@ -1,4 +1,8 @@
-# Total Recall
+<p align="center">
+  <img src="banner.jpg" alt="Total Recall Catalog" />
+</p>
+
+# Total Recall Catalog
 Catalog of AI Knowledge Retrieval, Memory & RAG Systems (Last updated 2025-04-13)
 
 ## What This Is
